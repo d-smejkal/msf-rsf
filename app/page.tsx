@@ -11,7 +11,7 @@ export default function LoginPage() {
   const [error, setError] = useState("");
 
   const DEMO_USERNAME = "admin";
-  const DEMO_PASSWORD = "admin123";
+  const DEMO_PASSWORD = "2tX6*{zL3(.Y!75.xDV}D0Rn%4H1qJJ*";
 
   const handleSubmit: SubmitEventHandler<HTMLFormElement> = (e) => {
   e.preventDefault();
