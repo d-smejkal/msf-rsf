@@ -244,7 +244,7 @@ export default function Home() {
                 <div className="flex justify-between border-b pb-3">
                   <div>
                     <p className="text-lg">
-                      Double the Diazepam suplly flotilas
+                      Review Support model for RSF 
                     </p>
                     <p className="mt-1 text-sm text-gray-500">
                       Ales Bachtik • Due Oct 18
@@ -272,10 +272,10 @@ export default function Home() {
                 <div className="flex justify-between">
                   <div>
                     <p className="text-lg">
-                      Turn the calendar page to a new year in the hallway
+                      Wish a happy new year to everyone
                     </p>
                     <p className="mt-1 text-sm text-gray-500">
-                      Cristos Christou • Due Jan 01
+                      All • Due Jan 01
                     </p>
                   </div>
                   <span className="text-sm text-gray-500">
@@ -310,17 +310,17 @@ export default function Home() {
 
                 <div className="border-b pb-2">
                   <p className="text-lg">
-                    All employees to get orange Labubu on Dec 22
+                    44% of employees to get 2% pay raise on Dec 22
                   </p>
 
                   <p className="mt-1 text-sm text-gray-500">
-                    Annual Chinese useless things surplus donation • Oct 01
+                    Cristos Christou • Oct 01
                   </p>
                 </div>
 
                 <div>
                   <p className="text-lg">
-                    Squid game added to team building animation programs  
+                    New Team building animation programs kick off
                   </p>
 
                   <p className="mt-1 text-sm text-gray-500">
