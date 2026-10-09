@@ -30,7 +30,7 @@ export default function LoginPage() {
   return (
     <main className="flex flex-col min-h-screen items-center justify-center">
       <div className="w-160 mb-8">
-        <img className="site-logo" alt="MSF-RSF logo" src="/msf_rsf.jpg" />
+        <img className="site-logo" alt="MSF-RSF logo" src="/msf-rsf/msf_rsf.jpg" />
       </div>
       <div>
         <h1 className="mb-4 text-center text-3xl font-bold">

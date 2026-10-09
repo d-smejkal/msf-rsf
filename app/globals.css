@@ -1,12 +1,5 @@
 @import "tailwindcss";
 
-@font-face {
-    font-family: "Neue Haas Grotesk Text Pro";
-    src: url("/Linotype - Neue Haas Grotesk Text Pro 55 Roman.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-}
-
 :root {
     --padding-inline: 2.4rem;
     --container-max-width: 114rem;

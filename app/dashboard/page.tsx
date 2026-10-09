@@ -6,16 +6,16 @@ export default function Home() {
           <div className="container-wide">
             <div className="header-div">
               <div className="flex items-baseline gap-3">
-                <img className="site-logo w-54" alt="MSF logo" src="/logo.svg" />
+                <img className="site-logo w-54" alt="MSF logo" src="/msf-rsf/logo.svg" />
                 <span className="font-bold italic text-xs">present</span>
                 <div className="w-54">
-                  <img className="site-logo" alt="RSF logo" src="/logo_rsf.gif" />
+                  <img className="site-logo" alt="RSF logo" src="/msf-rsf/logo_rsf.gif" />
                 </div>
                 {/* <span className="italic text-gray-200 text-7xl">RSF</span> */}
               </div>
 
               <div className="flex items-center gap-4">
-                <img src="/search.gif" alt="Search" width={18} />
+                <img src="/msf-rsf/search.gif" alt="Search" width={18} />
                 <span className="text-sm text-gray-600 pl-6">
                   David Smejkal
                 </span>
@@ -32,7 +32,7 @@ export default function Home() {
         {/* Sidebar */}
         <aside className="min-h-[calc(100vh-4rem)] mt-26 w-72 bg-white p-5">
           <div className="breadcrumbs__content">
-            <img src="/home.svg" alt="Go Home" />
+            <img src="/msf-rsf/home.svg" alt="Go Home" />
             <span className="text-lg text-gray-300">
               {'>'}
             </span>
