@@ -45,7 +45,7 @@ header.top {
 
 body {
     overflow-x: hidden;
-    font-family: "Neue Haas Grotesk Text Pro", serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 *, :after, :before {
