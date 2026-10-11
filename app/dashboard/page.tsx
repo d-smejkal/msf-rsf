@@ -30,10 +30,10 @@ export default function Home() {
                 <div className="flex items-center gap-4">
                   <img src="/msf-rsf/search.gif" alt="Search" width={18} />
                   <span className="text-sm text-gray-600 pl-6">
-                    David Smejkal
+                    Admin Adminovic
                   </span>
                   <div className="flex h-9 w-9 items-center justify-center rounded-full bg-gray-200 font-semibold">
-                    DS
+                    AA
                   </div>
                   <span className="button"
                     onClick={handleLogout}
@@ -103,7 +103,7 @@ export default function Home() {
             <div className="mb-4 flex items-center justify-between">
               <div>
                 <h2 className="text-3xl font-bold">
-                  Good morning, David. You look really great today!
+                  Good morning, Admin. You look really great today!
                 </h2>
                 <p className="mt-1 text-lg text-gray-500">
                   Welcome back in your promised land of meetings.
