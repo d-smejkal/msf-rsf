@@ -121,5 +121,5 @@ button {
     cursor: pointer;
     transform: rotate(0);
     transition: transform 0.2s linear;
-    background: no-repeat right url("/arrow-drop-small-2.svg");
+    background: no-repeat right url("/msf-rsf/arrow-drop-small-2.svg");
 }

@@ -21,8 +21,16 @@ export default function LoginPage() {
     username === DEMO_USERNAME &&
     password === DEMO_PASSWORD
   ) {
+    sessionStorage.setItem("isAuthenticated", "true");
+
+    console.log(
+      "LOGIN SUCCESS:",
+      sessionStorage.getItem("isAuthenticated")
+    );
+
     router.push("/dashboard");
   } else {
+    sessionStorage.removeItem("isAuthenticated");
     setError("Invalid username or password.");
   }
 };
